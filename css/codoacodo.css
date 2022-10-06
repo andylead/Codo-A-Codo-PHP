@@ -329,6 +329,10 @@ footer {
   .nav-bar {
     display: none;
   }
+  .footer {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 @media (min-width: 768px) {
